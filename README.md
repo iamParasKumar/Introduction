@@ -34,7 +34,7 @@ In this ReadMe file, you will be adding your introduction and from here your jou
 
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★
 
-❤❤ ** Paras Kumar ** ❤❤
+** Paras Kumar ** 
 
 ✿ My name is Paras, Basically, I belong to Najafgarh, Delhi here I'm living in Gurugram.
 
@@ -46,7 +46,7 @@ In this ReadMe file, you will be adding your introduction and from here your jou
 ✿ I am Interested in Python programing language.
 ✿ My Long term goal is to become more responsible and knowledgeable personality.
 
-❤❤ ## Connect With Me ## ❤❤
+ ## Connect With Me ## 
 
 ⚽ Facebook   :- https://www.facebook.com/asli.iamPK
 ⚽ LinkedIN   :- https://www.linkedin.com/in/iampk/ 
