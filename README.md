@@ -34,14 +34,13 @@ In this ReadMe file, you will be adding your introduction and from here your jou
 
 ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★
 
-## Paras Kumar ## 
+## Paras Kumar ##  
+ My name is Paras Kumar. Basically, I belong to Najafgarh, Delhi here I'm living in Gurugram.
 
-✿ My name is Paras Kumar.   
-   Basically, I belong to Najafgarh, Delhi here I'm living in Gurugram.
+-  I'm a student of DCE GGN, where I am pursuing my Bachelor of Technology degree , I was active in the school student council. I did my Intermediate from Kendriya Vidyalaya , Bairagarh (Bhopal).
 
-- ✿ I'm a student of DCE GGN, where I am pursuing my Bachelor of Technology degree , I was active in the school student council. I did my Intermediate from Kendriya Vidyalaya , Bairagarh (Bhopal).
-
-- ✿ My Hobbies are playing games, listen music 🎵  and reading.  ✿ My Strength is takes Initiative to work independently, Good leadership skills.
+- ✿ My Hobbies are playing games, listen music and reading.  
+- ✿ My Strength is takes Initiative to work independently, Good leadership skills.
 - ✿ My Weakness is that i become over friendly in nature.
 - ✿ I am Interested in Python programing language.
 - ✿ My Long term goal is to become more responsible and knowledgeable personality.
