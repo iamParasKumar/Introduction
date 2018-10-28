@@ -41,7 +41,7 @@ In this ReadMe file, you will be adding your introduction and from here your jou
 - I completed my 12th from # Kendriya Vidyalaya Bairagarh (Bhopal).
 - My strengths are my attitude that I like to take challenges that I CAN do it, self motivated person, self disciplined I am a good team player as well as has a good ability to lead the team.
 
-- My weakness is I can not tolrete any leniency in work.
+- My weakness is I can't tolrete any leniency in work.
 - My short term goal is I want a such a platform where I can grow my career.
 
  My Hobbies are :- Playing computer games , Surfing the Internet , Listening to music , travelling.
