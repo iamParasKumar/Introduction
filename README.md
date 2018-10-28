@@ -44,9 +44,9 @@ In this ReadMe file, you will be adding your introduction and from here your jou
 - My weakness is I can not tolrete any leniency in work.
 - My short term goal is I want a such a platform where I can grow my career.
 
-# My Hobbies are :- Playing computer games , Surfing the Internet , Listening to music , travelling.
+ My Hobbies are :- Playing computer games , Surfing the Internet , Listening to music , travelling.
 
-# Connect With Me :-
+ Connect With Me :-
 
 - ✿ Branch :- I.T. 3rd Sem. (20468)
 - ✿ Facebook :- https://www.facebook.com/asli.iamPK
